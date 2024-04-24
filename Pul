@@ -1,0 +1,53 @@
+# Create a new folder for your landing page project
+mkdir landing-page
+cd landing-page
+
+# Create an index.html file and open it in a text editor
+touch index.html
+nano index.html  # or use your preferred text editor
+
+# Write the HTML code for your landing page
+# Here's a simple example:
+echo "<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>My Landing Page</title>
+    <link rel='stylesheet' href='styles.css'>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Landing Page</h1>
+    </header>
+    <main>
+        <p>This is a simple landing page hosted on GitHub Pages.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Landing Page</p>
+    </footer>
+</body>
+</html>" > index.html
+
+# Create a styles.css file for styling
+touch styles.css
+
+# Open the styles.css file in a text editor and add CSS styles
+nano styles.css  # or use your preferred text editor
+# Add your CSS styles here
+
+# Initialize a Git repository
+git init
+
+# Add the index.html and styles.css files to the repository
+git add index.html styles.css
+
+# Commit the changes
+git commit -m "Initial commit: Create landing page HTML and CSS"
+
+# Link your local repository to your GitHub repository
+# Replace <username> with your GitHub username
+git remote add origin https://github.com/<username>/<username>.github.io.git
+
+# Push the changes to GitHub
+git push -u origin main
