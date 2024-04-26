@@ -82,5 +82,3 @@ Welcome to our Practical AWS Projects Repository! Here, you'll find a curated co
 <p align="center">
   This repository is licensed under the [insert license here]. Please see the LICENSE file for more details.
 </p>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="becf35b1-8d56-4957-ba65-f686d7b05aff" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
