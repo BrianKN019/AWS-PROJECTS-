@@ -82,3 +82,14 @@ Welcome to our Practical AWS Projects Repository! Here, you'll find a curated co
 <p align="center">
   This repository is licensed under the [insert license here]. Please see the LICENSE file for more details.
 </p>
+
+<!-- AWS Certified Cloud Practitioner Badge with Image -->
+<p align="center">
+  <a href="https://www.credly.com/badges/becf35b1-8d56-4957-ba65-f686d7b05aff/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-blue" alt="AWS Certified Cloud Practitioner Badge">
+    <img src="https://example.com/certification-badge-image.png" alt="Certification Badge Image" width="100" height="100">
+  </a>
+</p>
+
+<!-- Description -->
+<p align="center">Click the badge to verify my AWS Certified Cloud Practitioner credential on Credly!</p>
