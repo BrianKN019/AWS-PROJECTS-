@@ -62,7 +62,7 @@ Welcome to our Practical AWS Projects Repository! Here, you'll find a curated co
   Master AWS deployments with our step-by-step guides! Whether you're launching a new application or migrating to AWS, our deployment guides provide clear instructions and best practices.
 </p>
 
-<!-- Scripts -->
+<!-- - Scripts - -->
 <h2 align="center">Scripts 🛠️</h2>
 
 <p align="center">
